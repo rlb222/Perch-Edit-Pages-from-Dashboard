@@ -19,7 +19,7 @@ This addon makes it possible for a user to do the following
 
 ## Usage Quick overview
 1. Go to the Dashboard, a list of items and pages will be shown, Behind every Region item, the Region name is displayed
-2. Click a Page or an item to go to the Edit page.
+2. Click a Page or an item to go to its Edit page.
   
   
 ## How to install -detailed
