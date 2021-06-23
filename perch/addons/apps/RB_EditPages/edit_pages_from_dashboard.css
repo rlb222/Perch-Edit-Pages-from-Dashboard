@@ -1,0 +1,109 @@
+/*
+  CSS for 'Edit Pages from Dashboard'
+    - do not display pages and forms widget
+    - styles for table of the list of pages
+*/
+
+
+/* Dashboard Pages: don't show */
+div[data-app="content"]
+{
+	display:none;
+	float: none;
+}
+
+/* Dashboard Forms: don't show */
+div[data-app="perch_forms"]
+{
+	display:none;
+	float: none;
+}
+
+
+/* Dashboard Widget Styles */
+
+
+.bd { 							/* Empty space left and right of the widget */
+	margin: 0 5rem;
+}
+
+.dashboard
+{
+  flex-flow: column;
+}
+
+.dash .reg_widget h2{
+  font-size: 2.5 em;
+  font-weight: normal;
+}
+
+
+.dashboard li a{
+	/* color: grey; */
+}
+
+
+.dashboard li a.selected{
+	color: black;
+	font-weight: bold;
+}
+
+
+div.SameLine{
+	position: relative;
+	top: -2.4em;
+	display: inline;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+
+div.SameLine label{
+	position: relative;
+}
+
+
+div.LastLine label{
+	display: none;
+}
+
+
+table.pageslist th {
+	height: 2em;
+	vertical-align: bottom;
+	text-align: left;
+	width:80%;
+}
+
+table.pageslist td{
+  padding: 4px 10px;
+}
+
+
+table.pageslist tr:nth-of-type(even) {
+  /* background-color: #fefcf5; */
+}
+
+
+/* Style for every Region in the list */
+a.dashboardItem {
+  font-size: 1.2em;
+  line-height: 1.4em;
+  margin-left: 1em;
+}
+
+td.regionName{
+	width: 20%;
+}
+
+/* Style for every Page Name */
+a.pageName {
+	font-size: 2em;
+	line-height: 1em;
+	padding-top: 1em;
+}
+
+a.pageName:hover{
+	text-decoration: underline;
+}
+
+/* End of 'Edit Pages from Dashboard' */
