@@ -9,7 +9,7 @@ This addon makes it possible for a user to do the following
   
 (Not tested on Runway, not tested for blocks) 
   
-<img src="/screenshot/Pages_on_Dashboard.png" width="400">
+<img src="/screenshot/Pages_on_Dashboard.png" width="600">
 
 
 ## Installation Quick overview
