@@ -1,5 +1,5 @@
 # Perch-Edit-Pages-from-Dashboard
-Displays a list of all Region items from all Pages on the dashboard in [Perch CMS](http://grabaperch.com). You can click each Page or Region item to go to the edit-page.
+Displays a list of all Region items from all Pages on the dashboard in [Perch CMS](http://grabaperch.com). You can click each Page or Region item to go to its edit-page.
 
 ## What's it for  
 This addon makes it possible for a user to do the following   
@@ -25,7 +25,7 @@ This addon makes it possible for a user to do the following
 ## How to install -detailed
 1. Download the repository, it contains a Perch-like folder structure
 2. Copy the folder  `'RB_EditPages'` to folder: perch/addons/apps/ 
-3. The folder contains a stylesheet if you want to change the looks of the Widget. Some default Perch classes have been used.
+3. The folder contains a stylesheet if you want to change the looks of the Widget. Some default Perch classes have been used. The first two items hide the default 'pages' and 'forms' widgets.
     
 
 ## Todo   
