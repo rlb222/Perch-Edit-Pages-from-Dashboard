@@ -32,3 +32,5 @@ This addon makes it possible for a user to do the following
 ## Todo   
 - Test it with blocks. Its tested for regions (including a repeater). 
 - Test for Runway.
+
+<img src="/screenshot/Pages_on_Dashboard02.png" width="600">
