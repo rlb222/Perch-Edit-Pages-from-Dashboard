@@ -13,19 +13,19 @@ This addon makes it possible for a user to do the following
 
 
 ## Installation Quick overview
-1. Install the app 'RB_EditPages' into the Perch addons/apps folder 
+1. Install the app 'RB_EditPages' into the Perch `perch/addons/apps` folder 
 2. Show the Dashboard by setting 'Enable dashboard' in Perch Settings
 
 
 ## Usage Quick overview
 1. Go to the Dashboard, a list of items and pages will be shown, Behind every Region item, the Region name is displayed
 2. Click a Page or an item to go to its Edit page.
-3. If an item name is 'item (no title=true in template for this item)', it means in the content template there was `no title='true'` defined.
+3. If an item name is 'item (no title=true in template for this item)', it means in the content template there was no `title='true'` defined.
   
   
 ## How to install -detailed
 1. Download the repository, it contains a Perch-like folder structure
-2. Copy the folder  `'RB_EditPages'` to folder: perch/addons/apps/ 
+2. Copy the folder  `'RB_EditPages'` to folder: `perch/addons/apps/` 
 3. The folder contains a stylesheet if you want to change the looks of the Widget. Some default Perch classes have been used. The first two items hide the default 'pages' and 'forms' widgets.
     
 
